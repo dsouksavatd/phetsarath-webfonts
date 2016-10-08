@@ -10,7 +10,7 @@ http://www.phetsarath.gov.la
 Package Managers
 ----------------
 
-* [Bower](http://bower.io): `phetsarathwebfonts`
+* [Bower](http://bower.io): `phetsarath-webfonts`
 
 Git Package Manage:
 Somwang Souksavatd (dsouksavatd@gmail.com)
